@@ -44,7 +44,7 @@ public class Main {
         System.out.println("Enter your father's name: ");
         String fatherName = scanner.nextLine();
 
-        System.out.print("Enter your father's age: ");
+        System.out.print("Enter your father' age: ");
         int fatherAge = scanner.nextInt();
         scanner.nextLine();
 
